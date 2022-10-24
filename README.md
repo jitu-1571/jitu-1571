@@ -4,6 +4,6 @@
 [![Twitter Link](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JiDew1571)
 
 
-### I'm currently learning Web Development in MERN Stack.
+### I'm currently learning Full Stack Web Development in MERN Stack.
 ### I'm Intrested in MERN Stack.
 ### Currently looking for Collaboration on MERN Stack Projects.
